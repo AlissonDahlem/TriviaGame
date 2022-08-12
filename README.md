@@ -15,7 +15,7 @@ O jogo é 100% responsivo, tendo total compatibilidade com diversos tamanhos de 
 <img src="https://i.ibb.co/ZWMQt8w/trivia-smartphone-removebg-preview.png" />
 
 # Desenvolvedores
-<br>
+@AlissonDahlem<br>
 @eduardomuchak <br>
 @rodrigo-de-castro <br>
 @jvdionizio <br>
